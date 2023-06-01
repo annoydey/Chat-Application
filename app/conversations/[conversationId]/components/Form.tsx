@@ -28,14 +28,14 @@ const Form = () => {
         setValue('message', '', { shouldValidate: true});
         axios.post('/api/messages', {
             ...data,
-            conversationId
+            conversationId: conversationId
         })
     };
 
     const handleUpload = (result: any) => {
         axios.post('/api/messages', {
             image: result?.info?.secure_url,
-            conversationId
+            conversationId: conversationId
         })
     }
 
