@@ -13,10 +13,11 @@ interface DesktopItemProps {
 
 const DesktopItem: React.FC<DesktopItemProps> = ({ 
   label, 
-  icon: Icon,
-  href,
-  onClick,
-  active
+  href, 
+  icon: Icon, 
+  active,
+  onClick
+  
 }) => {
   const handleClick = () => {
     if (onClick) {
