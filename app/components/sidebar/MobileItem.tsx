@@ -1,5 +1,3 @@
-'use client';
-
 import Link from "next/link";
 
 import clsx from "clsx";
@@ -7,7 +5,7 @@ import clsx from "clsx";
 interface MobileItemProps {
   href: string;
   icon: any;
-  active?: boolean;
+  active?: string | boolean | undefined;
   onClick?: () => void;
 }
 
