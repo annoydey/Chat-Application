@@ -1,9 +1,11 @@
-[CONNECT-CHAT APPLICATION – REAL TIME MESSAGING APP](https://github.com/annoydey/Chat-Application)
+[CONNECT-CHAT APPLICATION – REAL TIME MESSAGING APP](https://connect-chat-application.vercel.app/)
 
 Features 
-•	A real-time chat app, inspired by Telegram, with channel-based chatting and conversation deletion.
-•	Users can also upload media files like images and create their own group.
-•	Application is responsive, it has firebase authentication system.
+*	A real-time chat app, inspired by Telegram, with channel-based chatting and conversation deletion.
+*	Users can also upload media files like images and create their own group.
+*	Application is responsive, it has firebase authentication system.
+
+![Connect-chat](https://github.com/annoydey/Chat-Application/assets/43465122/4f4b0148-589a-43b9-8e7d-f9b7b3c0f06a)
 
 Technology Used    
 * Next.js
@@ -18,10 +20,6 @@ Technology Used
 * MongoDB 
 * Pusher    
 * Vercel deploy  
-
-[Website Link](https://connect-chat-application.vercel.app/)  
-
-![Connect-chat](https://github.com/annoydey/Chat-Application/assets/43465122/4f4b0148-589a-43b9-8e7d-f9b7b3c0f06a)
 
 ## 🔗 Portfolio Link: https://annoydey.github.io/portfolio/
 
