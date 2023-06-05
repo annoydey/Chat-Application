@@ -1,4 +1,4 @@
-[CREATIVE AGENCY – A SERVICE SELLER WEB APPLICATION](https://github.com/annoydey/Chat-Application)
+[CONNECT-CHAT APPLICATION – REAL TIME MESSAGING APP](https://github.com/annoydey/Chat-Application)
 
 Features 
 •	A real-time chat app, inspired by Telegram, with channel-based chatting and conversation deletion.
